@@ -1,0 +1,22 @@
+.container {
+display: flex;
+gap: 20px;
+}
+.box {
+   background-color: slateblue;
+   padding: 20px;
+   border-radius: 20px; 
+}
+.container-2 {
+    display:flex ;
+    gap: 5px;
+    flex-wrap: wrap ;
+}
+.item {
+    width: 180px;
+    height: 100px;
+    background-color: brown;
+    color: beige;
+    border: 2px solid yellowgreen;
+}
+
